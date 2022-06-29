@@ -1,6 +1,6 @@
 # Project Name
 
-> Hellow world
+> Hello world
 
 
 ## Built With

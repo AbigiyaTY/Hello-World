@@ -1,7 +1,6 @@
 # Hello Microverse Project
 
-
-
+Created a Hello to Microverse file and Added styling using css.
 
 ## Built With
 

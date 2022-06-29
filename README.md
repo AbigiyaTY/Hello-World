@@ -1,6 +1,5 @@
 # Hello Microverse Project
 
-> Created Welcome html file and give it some styling using css.
 
 
 ## Built With
